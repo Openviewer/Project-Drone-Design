@@ -19,5 +19,5 @@ This is a simple 3D model design for a Drone based on the information from Cours
     - Amp Hour (aHr)
       - 1500mA for 1hr
     - Discharge (C)
-      - 20C = 20 * 1.5a = 30 amp continuous supply
+      - 20C = 20 * 1.5a = 30amp continuous supply
       - 30C = 30 * 1.5a = 45amp supply for 10sec

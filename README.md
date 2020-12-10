@@ -21,3 +21,15 @@ This is a simple 3D model design for a Drone based on the information from Cours
     - Discharge (C)
       - 20C = 20 * 1.5a = 30amp continuous supply
       - 30C = 30 * 1.5a = 45amp supply for 10sec
+      
+- **Multirotor basics**
+  - Signal received by RX module
+  - Signal sent to Flight Controller
+  - Flight Controller converts input to motor output
+  - Signal sent to ESC and Motors
+
+- **Multirotor add-ons**
+  - PDB or ESC with BEC
+  - Camera and TX module
+  - Servo or Brushless Gimbal
+  - Additional cameras or sensors

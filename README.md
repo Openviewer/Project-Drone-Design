@@ -33,3 +33,24 @@ This is a simple 3D model design for a Drone based on the information from Cours
   - Camera and TX module
   - Servo or Brushless Gimbal
   - Additional cameras or sensors
+  
+ ### Camera System parts
+
+- **Camera**
+    - FatShark 700TVL CMOS camera NTSC/PAL
+    - Light weight
+    - Low power consumption
+    - Inexpensive
+- **Video transmit**
+    - SkyZone TS5823 5.8GHz 32ch A/V 200mW
+    - Small/light
+    - 1 mile range
+    - 32 channels
+    - GoPro compatible
+- **Monitor and receiver**
+    - 7in 1024x600 32ch 5.8GHz LCD monitor Fieldview 777
+    - High resolution
+    - 32 channel
+    - 2.4GHz protected
+    - Built in battery
+    - Audio

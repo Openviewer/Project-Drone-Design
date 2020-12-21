@@ -5,7 +5,7 @@ This is a simple 3D model design for a Drone based on the information from Cours
 - **Motor Specifications**
   - Motor Specs DYS MR2205-2759KV
     - Diameter - 22mm
-    - Height - 05mm
+    - Height - 0.5mm
     - KV - revolutions per 1 volt (e.g. *11.1v x 2750 = 30525 rpm*)
     - Trust - based on battery and prop
     - Amperage draw - increases with throttle/rpm

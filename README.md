@@ -1,5 +1,6 @@
 # Project-Drone-Design
 This is a simple 3D model design for a Drone based on the information from Coursera course ***3D Model Creation with Autodesk Fusion 360***
+
 ## Design Critria
 ### Component Selection
 - **Motor Specifications**
@@ -21,7 +22,7 @@ This is a simple 3D model design for a Drone based on the information from Cours
     - Discharge (C)
       - 20C = 20 * 1.5a = 30amp continuous supply
       - 30C = 30 * 1.5a = 45amp supply for 10sec
-      
+  
 - **Multirotor basics**
   - Signal received by RX module
   - Signal sent to Flight Controller
@@ -33,7 +34,6 @@ This is a simple 3D model design for a Drone based on the information from Cours
   - Camera and TX module
   - Servo or Brushless Gimbal
   - Additional cameras or sensors
-  
  ### Camera System parts
 
 - **Camera**
@@ -54,3 +54,5 @@ This is a simple 3D model design for a Drone based on the information from Cours
     - 2.4GHz protected
     - Built in battery
     - Audio
+
+## Next part
